@@ -1,0 +1,12 @@
+/config/database.php
+/tmp
+/logs
+_*
+/vendor/
+/config/app_local.php
+/bin/phpunit
+/bin/phpunit.bat
+/phpunit.phar
+/phpunit.xml
+/plugins/
+/composer.phar
